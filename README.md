@@ -6,4 +6,11 @@ Forked from https://github.com/josa42/atom-smyck. I didn't like some of the `bac
 
 ## Screenshots
 
+### Coffeescript
 ![Coffeescript](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/coffeescript.png)
+
+### Python
+![Python](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/python.png)
+
+### Markdown
+![Markdown](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/markdown.png)
