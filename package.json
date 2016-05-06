@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.3.0",
   "description": "Smyck color scheme for atom - http://color.smyck.org",
-  "repository": "https://github.com/josa42/atom-smyck",
+  "repository": "https://github.com/marcel-robitaille/atom-smyck",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
