@@ -4,13 +4,18 @@ Forked from https://github.com/josa42/atom-smyck. I didn't like some of the `bac
 
 [Smyck color theme](https://github.com/hukl/Smyck-Color-Scheme/) converted for [atom](https://atom.io).
 
+## Installation
+```bash
+apm install smyck-spin
+```
+
 ## Screenshots
 
 ### Coffeescript
-![Coffeescript](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/coffeescript.png)
+![Coffeescript](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/coffeescript.png)
 
 ### Python
-![Python](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/python.png)
+![Python](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/python.png)
 
 ### Markdown
-![Markdown](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-notextfill/master/screenshots/markdown.png)
+![Markdown](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/markdown.png)
