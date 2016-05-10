@@ -11,8 +11,8 @@ apm install smyck-spin
 
 ## Screenshots
 
-### Coffeescript
-![Coffeescript](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/coffeescript.png)
+### JavaScript
+![JavaScript](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/javascript.png)
 
 ### Python
 ![Python](https://raw.githubusercontent.com/marcel-robitaille/atom-smyck-spin/master/screenshots/python.png)
