@@ -1,3 +1,5 @@
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Marcel-Robitaille/atom-smyck-spin/blob/master/LICENSE)
+
 # My spin on Atom smyck theme
 
 Forked from https://github.com/josa42/atom-smyck. I didn't like some of the `background-color`s so I removed them along with some other changes.
